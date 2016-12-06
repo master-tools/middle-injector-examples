@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Middle injector examples",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "mocha": "^3.2.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "mocha"
