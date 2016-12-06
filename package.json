@@ -1,0 +1,28 @@
+{
+  "name": "middle-injector-examples",
+  "version": "1.0.0",
+  "description": "Middle injector examples",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/master-tools/middle-injector-examples.git"
+  },
+  "keywords": [
+    "middle",
+    "injector",
+    "nodejs",
+    "javascript",
+    "examples"
+  ],
+  "author": "Alberto Iglesias Gallego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/master-tools/middle-injector-examples/issues"
+  },
+  "homepage": "https://github.com/master-tools/middle-injector-examples#readme"
+}
