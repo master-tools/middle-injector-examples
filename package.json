@@ -4,6 +4,7 @@
   "description": "Middle injector examples",
   "main": "index.js",
   "dependencies": {
+    "coveralls": "^2.11.15",
     "mocha": "^3.2.0"
   },
   "devDependencies": {},
