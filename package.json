@@ -4,6 +4,7 @@
   "description": "Middle injector examples",
   "main": "index.js",
   "dependencies": {
+    "codacy-coverage": "^2.0.0",
     "coveralls": "^2.11.15",
     "mocha": "^3.2.0"
   },
