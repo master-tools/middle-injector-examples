@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Middle injector examples",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "assert": "^1.4.1"
+  },
   "devDependencies": {
     "codacy-coverage": "^2.0.0",
     "coveralls": "^2.11.15",
