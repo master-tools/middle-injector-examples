@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/master-tools/middle-injector-examples.svg?branch=master)](https://travis-ci.org/master-tools/middle-injector-examples)
