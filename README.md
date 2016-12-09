@@ -1,1 +1,2 @@
 [![Build Status](https://travis-ci.org/master-tools/middle-injector-examples.svg?branch=master)](https://travis-ci.org/master-tools/middle-injector-examples)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2503239d75c44d17b7c64883eed549d5)](https://www.codacy.com/app/alberto-uchiha/middle-injector-examples?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=master-tools/middle-injector-examples&amp;utm_campaign=Badge_Grade)
