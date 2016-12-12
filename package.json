@@ -5,12 +5,13 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "assert": "^1.4.1",
     "codacy-coverage": "^2.0.0",
     "coveralls": "^2.11.15",
-    "mocha": "^3.2.0",
     "istanbul": "^0.4.5",
-    "assert": "^1.4.1",
-    "middle-injector": "github:master-tools/middle-injector"
+    "middle-injector": "github:master-tools/middle-injector",
+    "mocha": "^3.2.0",
+    "supertest": "^2.0.1"
   },
   "scripts": {
     "test": "NODE_PATH=./lib ./node_modules/mocha/bin/mocha test/ --recursive",
