@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "Middle injector examples",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "middle-injector": "^1.0.0"
+  },
   "devDependencies": {
     "assert": "^1.4.1",
     "codacy-coverage": "^2.0.0",
     "coveralls": "^2.11.15",
     "istanbul": "^0.4.5",
-    "middle-injector": "github:master-tools/middle-injector",
     "mocha": "^3.2.0",
     "supertest": "^2.0.1"
   },
