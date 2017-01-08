@@ -4,7 +4,6 @@ let middleInjector = require('middle-injector');
 let variables = require('./variables/hello-world');
 let dependencies = require('./dependencies/hello-world');
 let request = require('supertest');
-let expect = require('chai').expect;
 
 let app;
 
